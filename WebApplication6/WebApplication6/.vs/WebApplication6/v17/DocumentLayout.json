@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD76DA8-151A-4B64-B9C1-777E900762D3}|WebApplication6.csproj|c:\\users\\beray\\source\\repos\\webapplication6\\webapplication6\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD76DA8-151A-4B64-B9C1-777E900762D3}|WebApplication6.csproj|solutionrelative:controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointController.cs",
+              "ToolTip": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\PointController.cs",
+              "RelativeToolTip": "Controllers\\PointController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:36:34.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
