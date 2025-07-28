@@ -1,18 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\",
+  "WorkspaceRootPath": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\PointController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication6\\Controllers\\PointController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\WebApplication6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\ApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication6\\ApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250707093512_InitialSpatialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\ISpatialFeatureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ISpatialFeatureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Controllers\\FeaturesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\FeaturesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Models\\SpatialFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\SpatialFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\DTOs\\FeatureDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\FeatureDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\WebApplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\SpatialFeatureRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\SpatialFeatureRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\ISpatialFeatureRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\ISpatialFeatureRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Services\\SpatialFeatureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\SpatialFeatureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\DTOs\\CreateFeatureDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\CreateFeatureDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Mappings\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mappings\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Models\\ApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250715134733_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250715134733_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250707093725_InitialSpatialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250707093725_InitialSpatialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250707093725_InitialSpatialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250707093725_InitialSpatialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +110,289 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PointController.cs",
-              "DocumentMoniker": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\PointController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\PointController.cs",
-              "ToolTip": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Controllers\\PointController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\PointController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:33:45.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\ApiResponse.cs",
-              "ToolTip": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\ApiResponse.cs",
-              "RelativeToolTip": "WebApplication6\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:33:42.571Z"
+              "Title": "WebApplication6.csproj",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApplication6.csproj",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApplication6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T19:06:17.74Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ISpatialFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\ISpatialFeatureService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISpatialFeatureService.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\ISpatialFeatureService.cs",
+              "RelativeToolTip": "Interfaces\\ISpatialFeatureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:13:03.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:25:00.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:23:24.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:14:14.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeaturesController.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Controllers\\FeaturesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeaturesController.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Controllers\\FeaturesController.cs",
+              "RelativeToolTip": "Controllers\\FeaturesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA5wGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:36:34.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpatialFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Models\\SpatialFeature.cs",
+              "RelativeDocumentMoniker": "Models\\SpatialFeature.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Models\\SpatialFeature.cs",
+              "RelativeToolTip": "Models\\SpatialFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:42:45.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeatureDto.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\DTOs\\FeatureDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\FeatureDto.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\DTOs\\FeatureDto.cs",
+              "RelativeToolTip": "DTOs\\FeatureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:18:48.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
-              "ToolTip": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Program.cs",
-              "RelativeToolTip": "WebApplication6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:46:27.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplication6.csproj",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApplication6.csproj",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApplication6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T12:24:34.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpatialFeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\SpatialFeatureRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SpatialFeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\SpatialFeatureRepository.cs",
+              "RelativeToolTip": "Repositories\\SpatialFeatureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:26:13.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISpatialFeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\ISpatialFeatureRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISpatialFeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Interfaces\\ISpatialFeatureRepository.cs",
+              "RelativeToolTip": "Interfaces\\ISpatialFeatureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:23:48.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpatialFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Services\\SpatialFeatureService.cs",
+              "RelativeDocumentMoniker": "Services\\SpatialFeatureService.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Services\\SpatialFeatureService.cs",
+              "RelativeToolTip": "Services\\SpatialFeatureService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:13:02.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwCQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:14:52.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateFeatureDto.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\DTOs\\CreateFeatureDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateFeatureDto.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\DTOs\\CreateFeatureDto.cs",
+              "RelativeToolTip": "DTOs\\CreateFeatureDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:18:49.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:40:41.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:43:01.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T12:17:11.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:17:28.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250715134733_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250715134733_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250715134733_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250715134733_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250715134733_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:47:34.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250707093725_InitialSpatialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250707093725_InitialSpatialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250707093725_InitialSpatialCreate.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250707093725_InitialSpatialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250707093725_InitialSpatialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:33:29.071Z"
+              "WhenOpened": "2025-07-07T09:37:25.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250707093725_InitialSpatialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250707093725_InitialSpatialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250707093725_InitialSpatialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\20250707093725_InitialSpatialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250707093725_InitialSpatialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:11:35.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Beray\\Documents\\GitHub\\Basarsoft\\WebApplication6\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:11:35.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250707093512_InitialSpatialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250707093512_InitialSpatialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250707093512_InitialSpatialCreate.cs",
+              "ToolTip": "C:\\Users\\Beray\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250707093512_InitialSpatialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WebApplication6\\WebApplication6\\Migrations\\20250707093512_InitialSpatialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:35:13.089Z"
             }
           ]
         }
