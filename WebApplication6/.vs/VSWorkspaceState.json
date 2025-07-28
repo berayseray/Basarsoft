@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\bin\\Release\\net8.0"
   ],
-  "SelectedNode": "\\bin",
+  "SelectedNode": "\\bin\\Debug",
   "PreviewInSolutionExplorer": false
 }
