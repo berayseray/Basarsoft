@@ -1,5 +1,3 @@
----
-
 # Mekansal Veri API Projesi
 
 Bu proje, .NET 8 ve PostgreSQL/PostGIS veritabanı kullanarak geliştirilmiş bir mekansal (geospatial) veri yönetim API'sidir. Proje, harita üzerinde geometrik şekillerin (Nokta, Poligon vb.) oluşturulmasını, listelenmesini ve yönetilmesini sağlar.
@@ -101,5 +99,3 @@ Yeni bir poligon eklemek için `POST /api/Features` adresine aşağıdaki gibi b
   "locationWkt": "POLYGON ((32.86 39.94, 32.87 39.94, 32.87 39.93, 32.86 39.93, 32.86 39.94))"
 }
 ```
-
----
