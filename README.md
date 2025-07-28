@@ -32,7 +32,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 ### Gereksinimler
 *   [Git](https.git-scm.com/)
-*   [.NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
+*   [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 *   [Node.js ve npm](https://nodejs.org/en/)
 *   [PostgreSQL](https://www.postgresql.org/download/)
 *   **PostGIS Eklentisi:** PostgreSQL kurulumundan sonra PostGIS eklentisini kurmanız **zorunludur**. [Kurulum rehberi](https://postgis.net/install/).
