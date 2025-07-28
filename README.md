@@ -2,7 +2,6 @@
 
 Bu proje, .NET 8 ve PostgreSQL/PostGIS veritabanı kullanarak geliştirilmiş bir mekansal (geospatial) veri yönetim API'sidir. Proje, harita üzerinde geometrik şekillerin (Nokta, Poligon vb.) oluşturulmasını, listelenmesini ve yönetilmesini sağlar.
 
-Projenin en dikkat çekici özelliği, **yeni bir poligon eklendiğinde, var olan ve bu yeni poligonla kesişen diğer poligonlardan, kesişim alanını otomatik olarak çıkarmasıdır.** Bu, NetTopologySuite kütüphanesinin "fark alma" (difference) operasyonu ile gerçekleştirilir.
 
 ## 🚀 Temel Özellikler
 
