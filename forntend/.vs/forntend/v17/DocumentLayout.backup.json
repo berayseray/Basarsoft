@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beray\\Desktop\\forntend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\MapComponent.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\src\\MapComponent.tsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\FeatureModal.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\src\\FeatureModal.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my-map-app\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\package.json",
+              "RelativeDocumentMoniker": "my-map-app\\package.json",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\package.json",
+              "RelativeToolTip": "my-map-app\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T14:43:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "my-map-app\\tsconfig.app.json",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.app.json",
+              "RelativeToolTip": "my-map-app\\tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T14:42:51.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "my-map-app\\tsconfig.node.json",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.node.json",
+              "RelativeToolTip": "my-map-app\\tsconfig.node.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T14:42:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.json",
+              "RelativeDocumentMoniker": "my-map-app\\tsconfig.json",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\tsconfig.json",
+              "RelativeToolTip": "my-map-app\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T14:42:38.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeatureModal.tsx",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\FeatureModal.tsx",
+              "RelativeDocumentMoniker": "my-map-app\\src\\FeatureModal.tsx",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\FeatureModal.tsx",
+              "RelativeToolTip": "my-map-app\\src\\FeatureModal.tsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-15T14:36:29.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\index.css",
+              "RelativeDocumentMoniker": "my-map-app\\src\\index.css",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\index.css",
+              "RelativeToolTip": "my-map-app\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-15T14:24:20.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\index.html",
+              "RelativeDocumentMoniker": "my-map-app\\index.html",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\index.html",
+              "RelativeToolTip": "my-map-app\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-15T14:16:31.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\main.tsx",
+              "RelativeDocumentMoniker": "my-map-app\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\main.tsx",
+              "RelativeToolTip": "my-map-app\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-15T14:06:38.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\App.tsx",
+              "RelativeDocumentMoniker": "my-map-app\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\App.tsx",
+              "RelativeToolTip": "my-map-app\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-15T14:03:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\App.css",
+              "RelativeDocumentMoniker": "my-map-app\\src\\App.css",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\App.css",
+              "RelativeToolTip": "my-map-app\\src\\App.css",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAYwPAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-15T14:01:21.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapComponent.tsx",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\MapComponent.tsx",
+              "RelativeDocumentMoniker": "my-map-app\\src\\MapComponent.tsx",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\src\\MapComponent.tsx",
+              "RelativeToolTip": "my-map-app\\src\\MapComponent.tsx",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowK8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-15T14:01:08.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\package-lock.json",
+              "RelativeDocumentMoniker": "my-map-app\\package-lock.json",
+              "ToolTip": "C:\\Users\\Beray\\Desktop\\forntend\\my-map-app\\package-lock.json",
+              "RelativeToolTip": "my-map-app\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T14:43:08.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
